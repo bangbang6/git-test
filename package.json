@@ -1,0 +1,20 @@
+{
+  "name": "gitTest",
+  "version": "1.0.0",
+  "description": "Step01 Create File\r funastep01 AAA\r func commit01\r func commit02\r github change",
+  "main": "dist.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bangbang6/git-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bangbang6/git-test/issues"
+  },
+  "homepage": "https://github.com/bangbang6/git-test#readme"
+}
